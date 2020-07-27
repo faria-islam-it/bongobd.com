@@ -10,7 +10,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class SqaCodeTest {
 
-	    public static String chromedriver = "C:\\\\chromedriver.exe";
+	    public static String chromedriver = "C:\\chromedriver.exe";
 		WebDriver driver;
 		JavascriptExecutor jse;
 		
