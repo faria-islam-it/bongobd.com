@@ -46,7 +46,7 @@ public class SqaCodeTest {
 				
 				Thread.sleep(1000);
 				driver.findElement(By.xpath("//div[@id='sm-container']//div[1]//div[2]//div[1]//div[2]//div[1]//div[1]//div[6]//div[1]//div[1]//div[1]//div[1]//a[1]//div[1]//button[@type='button']")).click();
-				System.out.println(" Enjoy watching Ghani ");
+				System.out.println(" Enjoy watching");
 				
 			
 			} catch (Exception e) {
